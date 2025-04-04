@@ -1,19 +1,31 @@
 # Wambui Lucy's Portfolio
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and background in tech, business analysis, and creative digital solutions. It's designed to give you a glimpse into who I am and what I do.
+A personal portfolio website showcasing my background, projects, and skills in technology and business analysis.
 
-##  Live Demo
-Check it out live here 👉 [https://wambuiw.github.io/Portfolio/](https://wambuiw.github.io/Portfolio/)
+## Live Demo
+
+[https://wambuiw.github.io/Portfolio/](https://wambuiw.github.io/Portfolio/)
 
 ## Built With
-- HTML5
-- CSS3
-- JavaScript (coming soon for interactivity)
-- Git & GitHub Pages
+
+- HTML5  
+- CSS3  
+- JavaScript (upcoming features)  
+- Git & GitHub Pages  
 
 ## Features
-- Clean and responsive layout
-- Professional profile section
-- Projects showcase
-- Contact section
+
+- Responsive design  
+- About Me section  
+- Projects showcase  
+- Contact section  
+- Clean layout with custom styling  
+
+## Folder Structure
+```bash
+Portfolio/
+├── images/            
+├── index.html          
+├── portfolio.css       
+└── portfolio.js       
 
