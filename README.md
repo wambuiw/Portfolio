@@ -17,15 +17,3 @@ Check it out live here 👉 [https://wambuiw.github.io/Portfolio/](https://wambu
 - Projects showcase
 - Contact section
 
-## Preview
-![Portfolio Preview](![image](https://github.com/user-attachments/assets/68ee84bf-5b2e-4e4a-b474-c91f98f47bfe)
-) 
-
-##  Folder Structure
-```bash
-├── index.html
-├── /css
-│   └── styles.css
-├── /images
-│   └── your-assets.jpg/png
-└── README.md
